@@ -1,6 +1,6 @@
 server:
   port: 8766
-pring:
+spring:
   freemarker:
     cache: false
     charset: UTF-8

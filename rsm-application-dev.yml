@@ -9,6 +9,6 @@ pring:
     content-type: text/html
     expose-request-attributes: true
     expose-session-attributes: true
-    suffix: .html
+    suffix: .ftl
     template-loader-path: classpath:/templates/
     allow-session-override: true

@@ -1,6 +1,6 @@
 server:
   port: 8762
-  password: 123456
+password: 123456
 
 spring:
   redis:
